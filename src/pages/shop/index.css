@@ -1,0 +1,5 @@
+.Shop__window{
+    display: flex;
+    justify-content: space-between;
+    margin: 25px 50px;
+}
